@@ -49,6 +49,16 @@ body {
 	-webkit-text-size-adjust: 100%;
 	-webkit-tap-highlight-color: transparent
 }
+
+#preloader{
+    width: 100%;
+    height: 600px;
+    background-color: #f1f2f3;
+    background-image: url(assets/Preloader.gif);
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
 .navbar-nav a:active{
 	color: #fff !important;
 }
